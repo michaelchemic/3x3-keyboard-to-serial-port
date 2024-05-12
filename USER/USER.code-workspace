@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "key.h": "c",
+            "lcd.h": "c",
+            "delay.h": "c",
+            "sys.h": "c",
+            "usart.h": "c"
+        }
+    },
+    "extensions": {}
+}
